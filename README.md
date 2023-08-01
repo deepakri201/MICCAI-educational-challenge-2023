@@ -17,7 +17,8 @@ In the dashboard [here](https://lookerstudio.google.com/u/0/reporting/a9ead556-4
 
 Watch the gif below to learn how to interact with the dashboard.
 
-(insert gif later)
+![nlst_dashboard_usage](https://github.com/deepakri201/MICCAI-educational-challenge-2023/assets/59979551/35ec2edf-11f9-4c6e-98f2-93bbcb72c6e3)
+
 
 ## Feature comparison of different regions for NLST
 
@@ -44,6 +45,6 @@ Now, what if you want to actually access one of these segmentations? Here we sho
 - How to query and download the raw CT data
 - How to use `ITKWidgets` to plot the CT data overlaid with the segmentation!
 
-Here's an example of using ITKWidgets: (insert gif later instead of image)
+Here's an example of using ITKWidgets: 
 
 ![ITKWidgets_figure](https://github.com/deepakri201/MICCAI-educational-challenge-2023/assets/59979551/0360e61d-d323-485b-a4f9-66d14f4351ba)
