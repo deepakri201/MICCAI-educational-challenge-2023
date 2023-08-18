@@ -49,6 +49,8 @@ Here's an example of using ITKWidgets:
 
 ![itkwidgets_downsized_optimized](https://github.com/deepakri201/MICCAI-educational-challenge-2023/assets/59979551/ae3920ba-fd2f-4312-a004-af0ca86a1b02)
 
-![ITK_widgets](https://github.com/deepakri201/MICCAI-educational-challenge-2023/assets/59979551/ee361c19-3efd-4d54-a018-d89591984e1a)
+![ITK_widgets_optimized](https://github.com/deepakri201/MICCAI-educational-challenge-2023/assets/59979551/ff2217dd-db28-4ac8-b77e-ee4c60e22e47)
+
+
 
 
