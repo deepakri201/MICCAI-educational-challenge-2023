@@ -1,6 +1,6 @@
 # MICCAI Educational Challenge 2023: Exploring AI-derived annotations in Imaging Data Commons (IDC)
 
-This repository accompanies the Medium article [Exploring AI-derived annotations in Imaging Data Commons (IDC)](https://medium.com/@deepa.krishnaswamy2/exploring-ai-derived-annotations-in-imaging-data-commons-idc-v2-2a2e1f42bf16), in submission for the [MICCAI Educational Challenge 2023](https://miccai-sb.github.io/challenge). 
+This repository accompanies the Medium article [Exploring AI-derived annotations in Imaging Data Commons (IDC)](https://medium.com/@deepa.krishnaswamy2/exploring-ai-derived-annotations-in-imaging-data-commons-idc-e60b030eca17), in submission for the [MICCAI Educational Challenge 2023](https://miccai-sb.github.io/challenge). 
 
 One of the issues with AI model development is how to validate you results when you do not have expert annotations. In this article, we demonstrate how to interact with segmentation results in multiple ways: 
 - How to use a dashboard to interact with and explore segmentation results
