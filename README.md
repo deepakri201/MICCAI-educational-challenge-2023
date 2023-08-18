@@ -33,7 +33,7 @@ Here we pick a single feature (sphericity), and look at the distribution of this
 
 Click on this figure to open up an interactive plot! Here you can click on points which will open up a link to the IDC portal.
 
-[![](https://github.com/deepakri201/MICCAI-educational-challenge-2023/blob/main/bokeh_figure_new.png)](https://htmlpreview.github.io/?https://github.com/deepakri201/MICCAI-educational-challenge-2023/blob/main/bokeh_figure_new.html)
+[![](https://github.com/deepakri201/MICCAI-educational-challenge-2023/blob/main/bokeh_figure_new.png | width=100)](https://htmlpreview.github.io/?https://github.com/deepakri201/MICCAI-educational-challenge-2023/blob/main/bokeh_figure_new.html)
 
 ## Use ITKWidgets to display the AI-derived segmentations
 
